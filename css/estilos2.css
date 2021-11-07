@@ -1,0 +1,29 @@
+
+
+
+
+.logotipo2{
+   
+    margin: 0;
+    padding: 0;
+    text-rendering: optimizespeed;
+}
+
+.logotipoimage{
+	width: 100px;
+	height: 90px;
+	margin: 0 0 12 12;
+}
+
+.logotipoimage2{
+	width: 190px;
+	height: 80px;
+	margin: 0 0 12 12;
+
+}
+
+.logotipoimage3{
+	width: 200px;
+	height: 90px;
+	margin: 0 0 12 12;
+}

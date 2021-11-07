@@ -1,0 +1,20 @@
+header nav {
+	
+	overflow: hidden;
+	background-color: #1B396A;
+}
+
+header nav ul {
+	list-style: none;
+}
+
+header nav ul li{
+float: left;
+
+}
+
+header nav ul li a {
+	padding: 10px 20px;
+	display: block;
+	color:  black;
+	text-decoration: none;
